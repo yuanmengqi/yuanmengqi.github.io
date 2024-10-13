@@ -17,13 +17,14 @@
 #- title: "Blog Posts"
 #  url: /year-archive/
 
-#- title: "Guide"
-#  url: /markdown/
+  #- title: "Guide"
+  #  url: /markdown/
 
 main:
   - title: "Publications"
     url: /publications/
 
+    
   - title: "CV"
     url: /cv/
     
